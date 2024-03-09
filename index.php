@@ -20,7 +20,7 @@
   form($type, $name, $placeholder, $label, $action, $method);
   
   echo "<div class='text-center m-2 mb-1 p-0'>
-          <p class='m-1'>Not have account yet?<a href='daftar.php' class='mb-0'> Sign in</a></p>
+          <p class='m-1'>Tidak mempunyai akun?<a href='daftar.php' class='mb-0'> Sign in</a></p>
         </div>
         <p class='alternatif text-center'>Or sign up with:</p>";
            
